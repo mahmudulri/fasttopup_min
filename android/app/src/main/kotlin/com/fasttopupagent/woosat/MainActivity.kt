@@ -1,4 +1,4 @@
-package com.fasttopupapp.woosat
+package com.fasttopupagent.woosat
 
 import io.flutter.embedding.android.FlutterActivity
 

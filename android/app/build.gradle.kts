@@ -19,7 +19,7 @@ val flutterVersionName = localProperties.getProperty("flutter.versionName") ?: "
 
 
 android {
-    namespace = "com.fasttopupapp.woosat"
+    namespace = "com.fasttopupagent.woosat"
     compileSdk = 36
     ndkVersion = "27.0.12077973"
 
@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.fasttopupapp.woosat"
+        applicationId = "com.fasttopupagent.woosat"
         minSdk = flutter.minSdkVersion
         targetSdk = 36
         versionCode = flutterVersionCode
